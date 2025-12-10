@@ -35,13 +35,12 @@
 <table>
   <tr>
     <td>
-      <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&rank_icon=github" alt="stats" />
+      <img height="160" src="https://github-readme-stats-nine-kappa-75.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&rank_icon=github" alt="stats" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Duri686&theme=transparent" alt="streak" />
-    </td>
-    <td>
-      <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent" alt="top-langs" />
+      <img height="140" src="https://github-readme-stats-nine-kappa-75.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent" alt="top-langs" />
     </td>
   </tr>
 </table>
@@ -49,7 +48,7 @@
 ## 🏆 Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duri686&theme=flat&column=6&margin-w=8&margin-h=8" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Duri686&theme=flat&column=6&margin-w=8&margin-h=8" alt="trophy" />
 </p>
 
 ## 📈 Activity Graph
@@ -62,5 +61,6 @@
 
 ## 📬 Contact
 - GitHub Issues (preferred): open an issue in any repo
+- Email: <duri@duck.com>
 - Website: <https://geo4ai.com/>
 - Image Tools: <https://img.geo4ai.com/>
