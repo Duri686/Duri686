@@ -44,11 +44,11 @@
 ## 📊 GitHub 统计
 <img src="https://raw.githubusercontent.com/Duri686/Duri686/main/github-stats.svg" alt="GitHub Stats" />
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies
 
 <p align="left">
   <img src="https://github-trophies.vercel.app/?username=Duri686&theme=flat&column=6&margin-w=8&margin-h=8" alt="trophy" />
-</p>
+</p> -->
 
 ## 📈 Activity Graph
 
