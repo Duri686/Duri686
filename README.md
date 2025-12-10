@@ -46,6 +46,12 @@
 
 ## ⭐ Latest Stars
 <!-- STARS:START -->
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) — :zap: Dynamically generated stats for your github readmes
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) — A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) — A new bootable USB solution.
+- [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) — 小红书爬虫数据采集，小红书全域运营解决方案
+- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) —  Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.
 <!-- STARS:END -->
 
 ## 📬 Contact
