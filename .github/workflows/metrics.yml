@@ -21,6 +21,7 @@ jobs:
           #  - read:packages (for some packages related plugins)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-stats.svg
 
           # Options
           user: Duri686
