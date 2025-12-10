@@ -1,8 +1,4 @@
-﻿<p align="center">
-  <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Banner" />
-</p>
-
-<h1 align="center">Hi, I'm Duri 👋</h1>
+﻿<h1 align="center">Hi, I'm Duri 👋</h1>
 
 <p align="center">
   F2E Engineer · Web Visualization (WebGL/Three.js, PixiJS) · A* Pathfinding & Multi-floor Routing · Vite/TS · Web Workers · Actions
@@ -33,7 +29,7 @@
   Vite + PixiJS 的路网可视化与路径规划（A*，多楼层支持，Web Workers 加速）  
   - Live Demo：https://duri686.github.io/RoadNetVisualizer/  
   - Repo：https://github.com/Duri686/RoadNetVisualizer  
-  <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/PathPreview.png" alt="Path Preview" width="640" />
+  <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" />
 
 ## 📊 GitHub 统计
 <p align="left">
