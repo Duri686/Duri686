@@ -12,17 +12,16 @@
 
 ## 👨‍💻 关于我
 - **关注方向**：Web 可视化、路径规划（A* / 双向 / Weighted）、工程化与性能优化  
-- **近期项目**：RoadNetVisualizer —— 路网可视化与多楼层 A* 寻路  
-- **理念**：以可采纳启发式为基础的最优路径，追求“可解释 + 可视的性能指标”
+- **近期项目**：RoadNetVisualizer —— 路网可视化与多楼层 A* 寻路
+  - **理念**：以可采纳启发式为基础的最优路径，追求“可解释 + 可视的性能指标”
 
 ## 🛠 技术栈
-![JavaScript](https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-Types-3178C6?logo=typescript&logoColor=fff)
-![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=fff)
-![PixiJS](https://img.shields.io/badge/PixiJS-Renderer-ED4E6E?logo=pixiv&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-UI-06B6D4?logo=tailwindcss&logoColor=fff)
-![WebWorkers](https://img.shields.io/badge/Web%20Workers-Parallel-10B981)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=fff)
+| 前端 (Frontend) | 后端 & 数据库 (Backend & Database) | 工程化 & DevOps (Tooling & DevOps) |
+| :---: | :---: | :---: |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?logo=javascript&logoColor=000) | ![C#](https://img.shields.io/badge/C%23-Language-512BD4?logo=c-sharp&logoColor=fff) | ![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=fff) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-Types-3178C6?logo=typescript&logoColor=fff) | ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?logo=microsoft-sql-server&logoColor=fff) | ![Nginx](https://img.shields.io/badge/Nginx-Proxy-009639?logo=nginx&logoColor=fff) |
+| ![Nuxt3](https://img.shields.io/badge/Nuxt-Framework-00DC82?logo=nuxt.js&logoColor=fff) | ![Web Workers](https://img.shields.io/badge/Web%20Workers-Parallel-10B981) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=fff) |
+| ![PixiJS](https://img.shields.io/badge/PixiJS-WebGL-ED4E6E?logo=pixiv&logoColor=fff) | ![数据埋点](https://img.shields.io/badge/Data%20Tracking-Analytics-1E90FF) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?logo=tailwindcss&logoColor=fff) |
 
 ## ⭐ 精选项目
 - **RoadNetVisualizer**  
