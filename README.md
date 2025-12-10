@@ -32,18 +32,7 @@
   <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" />
 
 ## 📊 GitHub 统计
-<table>
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats-nine-kappa-75.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&rank_icon=github" alt="stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height="140" src="https://github-readme-stats-nine-kappa-75.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent" alt="top-langs" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/Duri686/Duri686/main/github-stats.svg" alt="GitHub Stats" />
 
 ## 🏆 Trophies
 
