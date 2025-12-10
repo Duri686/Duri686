@@ -20,7 +20,7 @@
 | :---: | :---: | :---: |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-ES202x-F7DF1E?logo=javascript&logoColor=000) | ![C#](https://img.shields.io/badge/C%23-Language-512BD4?logo=c-sharp&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-Backend-43853D?logo=node.js&logoColor=fff) | ![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?logo=vite&logoColor=fff) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-Types-3178C6?logo=typescript&logoColor=fff) | ![SQL](https://img.shields.io/badge/SQL-Database-4479A1?logo=microsoft-sql-server&logoColor=fff) | ![Nginx](https://img.shields.io/badge/Nginx-Proxy-009639?logo=nginx&logoColor=fff) |
-| ![Nuxt3](https://img.shields.io/badge/Nuxt-Framework-00DC82?logo=nuxt.js&logoColor=fff) | ![Web Workers](https://img.shields.io/badge/Web%20Workers-Parallel-10B981) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=fff) |
+| ![Vue3](https://img.shields.io/badge/Vue-Framework-4FC08D?logo=vue.js&logoColor=fff) ![Nuxt3](https://img.shields.io/badge/Nuxt-Framework-00DC82?logo=nuxt.js&logoColor=fff) | ![Web Workers](https://img.shields.io/badge/Web%20Workers-Parallel-10B981) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=fff) |
 | ![Leaflet](https://img.shields.io/badge/Leaflet-2D%20Map-199900?logo=leaflet&logoColor=fff) ![Three.js](https://img.shields.io/badge/Three.js-3D%20Map-000000?logo=three.js&logoColor=fff) ![PixiJS](https://img.shields.io/badge/PixiJS-WebGL-ED4E6E?logo=pixiv&logoColor=fff) ![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?logo=greensock&logoColor=fff) | ![数据埋点](https://img.shields.io/badge/Data%20Tracking-Analytics-1E90FF) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Styling-06B6D4?logo=tailwindcss&logoColor=fff) |
 
 **🚀 正在探索 (Currently Exploring):**
@@ -29,6 +29,8 @@
 ![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?logo=greensock&logoColor=fff)
 ![GLSL](https://img.shields.io/badge/GLSL-Shaders-5A86A4?logo=opengl&logoColor=fff)
 ![GPU](https://img.shields.io/badge/GPU%20Rendering-Performance-BF4040)
+![SEO](https://img.shields.io/badge/SEO-Optimization-DE4C36)
+![Geo](https://img.shields.io/badge/Geo-Mapping-3399CC)
 
 ## ⭐ 精选项目
 - **RoadNetVisualizer**: 一个基于 Three.js 和 Vite 的高性能 3D 多楼层路网可视化与导航模拟器。
