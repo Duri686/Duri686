@@ -32,18 +32,24 @@
   <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" />
 
 ## 📊 GitHub 统计
-<p align="left">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&rank_icon=github" alt="stats" />
-  <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Duri686&theme=transparent" alt="streak" />
-</p>
-<p align="left">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent" alt="top-langs" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&rank_icon=github" alt="stats" />
+    </td>
+    <td>
+      <img height="160" src="https://github-readme-streak-stats-eight.vercel.app?user=Duri686&theme=transparent" alt="streak" />
+    </td>
+    <td>
+      <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent" alt="top-langs" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duri686&theme=transparent&column=6&margin-w=8&margin-h=8&no-frame=true" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Duri686&theme=flat&column=6&margin-w=8&margin-h=8" alt="trophy" />
 </p>
 
 ## 📈 Activity Graph
