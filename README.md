@@ -57,11 +57,11 @@
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs) — The docs of MoonBit programming language
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) — A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) — A new bootable USB solution.
 - [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) — 小红书爬虫数据采集，小红书全域运营解决方案
-- [wendy7756/AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) —  Transcribe and summarize video content using AI. Open-source, multi-platform, and supports multiple languages.
 <!-- STARS:END -->
 
 ## 📬 Contact
