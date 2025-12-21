@@ -42,7 +42,8 @@
   - *Independently designed Web perpetual contract simulator replicating professional exchange UX. Rust/Wasm engine handles 1000+ ticks/s without blocking UI; React state layering + ECharts optimization; responsive grid layout from mobile to 4K ultrawide.*  
   - Live Demo：https://duri686.github.io/RustQuantLab/  
   - Repo：https://github.com/Duri686/RustQuantLab  
-  <img src="https://raw.githubusercontent.com/Duri686/RustQuantLab/refs/heads/main/docs/preview.png" alt="RustQuantLab Preview" width="640" />
+  - preview:
+  <p align="center"><img src="https://raw.githubusercontent.com/Duri686/RustQuantLab/refs/heads/main/docs/preview.png" alt="RustQuantLab Preview" width="640" /></p>
 
 - 🗺️ **RoadNetVisualizer**: 纯客户端 3D 室内导航模拟器，完整实现 A* 寻路算法与多楼层路径规划，无后端依赖。
   - **产品设计**: 抽象"楼层-连接点-路径"拓扑模型，支持楼梯/电梯跨层导航（带代价权重）；"点击即导航"零学习成本交互。
@@ -51,7 +52,8 @@
   - *Pure client-side 3D indoor navigation with A* pathfinding & multi-floor routing. Three.js scene interaction, path smoothing, zero backend dependency.*  
   - Live Demo：https://duri686.github.io/RoadNetVisualizer/  
   - Repo：https://github.com/Duri686/RoadNetVisualizer  
-  <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" />
+  - preview:
+  <p align="center"><img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" /></p>
 
 ## 📊 GitHub 统计
 <img src="https://raw.githubusercontent.com/Duri686/Duri686/main/github-stats.svg" alt="GitHub Stats" />
