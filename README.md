@@ -33,18 +33,20 @@
 ![Geo](https://img.shields.io/badge/Geo-Mapping-3399CC)
 
 ## ⭐ 精选项目
-- 🦀 **RustQuantLab**: 高性能 Web 永续合约模拟交易终端，基于 Rust/WebAssembly + React + ECharts。
-  - **核心功能**: 支持多空开仓、杠杆调节 (1-125x)、实时盈亏计算、强平预警，提供零延迟交易体验。
-  - **技术亮点**: Rust 核心引擎编译为 WebAssembly，毫秒级处理高频 Tick 数据；仿 Binance/TradingView 专业级深色主题 UI；serde-wasm-bindgen 零拷贝桥接实现高效 JS ↔ Rust 数据序列化。
-  - *High-performance Web perpetual contract simulation trading terminal. Rust/WebAssembly engine with React + ECharts. Features leverage trading (1-125x), real-time PnL, liquidation alerts, professional dark-theme UI, and zero-copy JS ↔ Rust data bridging.*  
+- 🦀 **RustQuantLab**: 纯客户端高性能永续合约模拟器，无需后端即可在浏览器内完整复刻专业交易所体验。
+  - **产品设计**: 深度拆解 Binance/OKX 交易流程，抽象出保证金模型、强平机制、风险分级等核心业务逻辑；UI/UX 对标 TradingView 专业深色主题，注重信息密度与操作效率的平衡。
+  - **工程决策**: 选择 Rust→WebAssembly 而非纯 JS，是为了在浏览器内实现毫秒级高频 Tick 处理（1000+ updates/s）同时保证主线程 60fps 渲染不卡顿；通过 serde-wasm-bindgen 零拷贝桥接，消除 JS↔Wasm 数据序列化瓶颈。
+  - **前端深度**: React 状态分层架构（引擎层/业务层/视图层解耦）、ECharts 大数据量 K 线渲染优化、CSS Grid 响应式布局（移动端→4K 超宽屏自适应）。
+  - *Independently designed Web perpetual contract simulator replicating professional exchange UX. Rust/Wasm engine handles 1000+ ticks/s without blocking UI; React state layering + ECharts optimization; responsive grid layout from mobile to 4K ultrawide.*  
   - Live Demo：https://duri686.github.io/RustQuantLab/  
   - Repo：https://github.com/Duri686/RustQuantLab  
   <img src="https://raw.githubusercontent.com/Duri686/RustQuantLab/refs/heads/main/docs/preview.png" alt="RustQuantLab Preview" width="640" />
 
-- **RoadNetVisualizer**: 一个基于 Three.js 和 Vite 的高性能 3D 多楼层路网可视化与导航模拟器。
-  - **核心功能**: 支持跨楼层（楼梯/电梯）的层级式 A* 寻路、障碍物感知路由、实时 3D 交互与平滑的路径动画。
-  - **技术亮点**: 纯客户端实现，利用 Web Workers 处理复杂计算，保证 UI 流畅。
-  - *High-performance 3D multi-layer road-network visualization and navigation simulator built with Three.js, Vite, and Web Workers. Features hierarchical pathfinding (cross-floor stairs/elevators), obstacle-aware routing, real-time 3D interaction, and smooth path animation.*  
+- 🗺️ **RoadNetVisualizer**: 纯客户端 3D 室内导航模拟器，完整实现 A* 寻路算法与多楼层路径规划，无后端依赖。
+  - **产品设计**: 抽象"楼层-连接点-路径"拓扑模型，支持楼梯/电梯跨层导航（带代价权重）；"点击即导航"零学习成本交互。
+  - **工程决策**: 多楼层节点合并统一图，A* 通过 `crossFloor` 边实现跨层寻路；异步执行避免阻塞渲染。
+  - **前端深度**: Three.js 3D 场景交互（楼层切换、相机过渡）、路径平滑（视线检测+障碍避让）、实时动画插值。
+  - *Pure client-side 3D indoor navigation with A* pathfinding & multi-floor routing. Three.js scene interaction, path smoothing, zero backend dependency.*  
   - Live Demo：https://duri686.github.io/RoadNetVisualizer/  
   - Repo：https://github.com/Duri686/RoadNetVisualizer  
   <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" alt="Path Preview" width="640" />
