@@ -26,6 +26,8 @@
 **🚀 正在探索 (Currently Exploring):**
 
 ![React](https://img.shields.io/badge/React-Library-61DAFB?logo=react&logoColor=000)
+![Rust](https://img.shields.io/badge/Rust-Language-000000?logo=rust&logoColor=fff)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-Runtime-654FF0?logo=webassembly&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-Animation-88CE02?logo=greensock&logoColor=fff)
 ![GLSL](https://img.shields.io/badge/GLSL-Shaders-5A86A4?logo=opengl&logoColor=fff)
 ![GPU](https://img.shields.io/badge/GPU%20Rendering-Performance-BF4040)
