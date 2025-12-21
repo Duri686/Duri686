@@ -33,6 +33,14 @@
 ![Geo](https://img.shields.io/badge/Geo-Mapping-3399CC)
 
 ## ⭐ 精选项目
+- 🦀 **RustQuantLab**: 高性能 Web 永续合约模拟交易终端，基于 Rust/WebAssembly + React + ECharts。
+  - **核心功能**: 支持多空开仓、杠杆调节 (1-125x)、实时盈亏计算、强平预警，提供零延迟交易体验。
+  - **技术亮点**: Rust 核心引擎编译为 WebAssembly，毫秒级处理高频 Tick 数据；仿 Binance/TradingView 专业级深色主题 UI；serde-wasm-bindgen 零拷贝桥接实现高效 JS ↔ Rust 数据序列化。
+  - *High-performance Web perpetual contract simulation trading terminal. Rust/WebAssembly engine with React + ECharts. Features leverage trading (1-125x), real-time PnL, liquidation alerts, professional dark-theme UI, and zero-copy JS ↔ Rust data bridging.*  
+  - Live Demo：https://duri686.github.io/RustQuantLab/  
+  - Repo：https://github.com/Duri686/RustQuantLab  
+  <img src="https://raw.githubusercontent.com/Duri686/RustQuantLab/refs/heads/main/docs/preview.png" alt="RustQuantLab Preview" width="640" />
+
 - **RoadNetVisualizer**: 一个基于 Three.js 和 Vite 的高性能 3D 多楼层路网可视化与导航模拟器。
   - **核心功能**: 支持跨楼层（楼梯/电梯）的层级式 A* 寻路、障碍物感知路由、实时 3D 交互与平滑的路径动画。
   - **技术亮点**: 纯客户端实现，利用 Web Workers 处理复杂计算，保证 UI 流畅。
