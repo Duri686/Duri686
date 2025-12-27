@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi, I'm Duri 👋</h1>
 
 <p align="center">
-  F2E Engineer · Web Visualization (WebGL/Three.js, PixiJS) · A* Pathfinding & Multi-floor Routing · Vite/TS · Web Workers · Actions
+  F2E Engineer · Web Visualization · High-Performance Web Apps (Rust/Wasm) · Pathfinding Algorithms (A*)
 </p>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 ## 👨‍💻 关于我
-- **核心领域**: 2D/3D 地图可视化 (Leaflet, Three.js), 室内导航与路径规划 (A*).
-- **技术热情**: 专注于高性能、高可用性的纯客户端 Web 应用，追求工程化与极致的用户体验.
+- **核心领域**: Web 可视化（地图/交易图表）、高性能 Web 应用（Rust/Wasm）、路径规划算法（A*）。
+- **技术热情**: 专注于纯客户端高性能 Web 应用，追求工程化与极致用户体验。
 
 ## 🛠 技术栈
 
