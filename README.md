@@ -35,11 +35,11 @@
 ![Geo](https://img.shields.io/badge/Geo-Mapping-3399CC)
 
 ## ⭐ 精选项目
-- 🦀 **RustQuantLab**: 纯客户端高性能永续合约模拟器，无需后端即可在浏览器内完整复刻专业交易所体验。
-  - **产品设计**: 深度拆解 Binance/OKX 交易流程，抽象出保证金模型、强平机制、风险分级等核心业务逻辑；UI/UX 对标 TradingView 专业深色主题，注重信息密度与操作效率的平衡。
-  - **工程决策**: 选择 Rust→WebAssembly 而非纯 JS，是为了在浏览器内实现毫秒级高频 Tick 处理（1000+ updates/s）同时保证主线程 60fps 渲染不卡顿；通过 serde-wasm-bindgen 零拷贝桥接，消除 JS↔Wasm 数据序列化瓶颈。
-  - **前端深度**: React 状态分层架构（引擎层/业务层/视图层解耦）、ECharts 大数据量 K 线渲染优化、CSS Grid 响应式布局（移动端→4K 超宽屏自适应）。
-  - *Independently designed Web perpetual contract simulator replicating professional exchange UX. Rust/Wasm engine handles 1000+ ticks/s without blocking UI; React state layering + ECharts optimization; responsive grid layout from mobile to 4K ultrawide.*  
+- 🦀 **RustQuantLab**: 高性能 Web 永续合约模拟交易终端，基于 Rust/WebAssembly + React + TradingView 构建。
+  - **产品设计**: 完整模拟交易系统，支持多空开仓、杠杆调节 (1-125x)、实时盈亏计算、强平预警；专业交易 UI 仿 Binance/TradingView 深色主题，集成实时 K 线、订单簿、技术指标（SMA/EMA/MACD/RSI/BOLL）。
+  - **工程决策**: Rust→WebAssembly 核心引擎实现毫秒级高频 Tick 处理，保证主线程 60fps 渲染不卡顿；通过 `serde-wasm-bindgen` 零拷贝桥接，消除 JS↔Wasm 数据序列化瓶颈；单一入口 `useWasmEngine` 统一编排市场数据与交易状态。
+  - **前端深度**: React 18 + TypeScript 5.6 + Vite 5 构建，TradingView Lightweight Charts 5.1 专业 K 线渲染，Tailwind CSS 4.0 响应式布局（移动端→4K 超宽屏自适应）；Web Worker 异步行情生成，状态分层架构（引擎层/业务层/视图层解耦）。
+  - *High-performance Web perpetual contract trading terminal built with Rust/WebAssembly + React + TradingView. Rust/Wasm engine handles millisecond-level tick processing; zero-copy JS↔Wasm bridging via serde-wasm-bindgen; unified state orchestration with useWasmEngine; responsive layout from mobile to 4K ultrawide.*  
   - Live Demo：https://duri686.github.io/RustQuantLab/  
   - Repo：https://github.com/Duri686/RustQuantLab  
   - preview:
