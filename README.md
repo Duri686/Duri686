@@ -21,7 +21,7 @@ and exploring Rust / Wasm in real-world frontend scenarios.
 ## 🛠 Tech Stack
 
 **Frontend**  
-JavaScript / TypeScript · Vue 3 / Nuxt 3 · Tailwind CSS
+JavaScript / TypeScript · Vue 3 / Nuxt 3 · React · Tailwind CSS
 
 **Platform & Tooling**  
 Node.js · SQL · Nginx · Vite · GitHub Actions · Web Workers
