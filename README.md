@@ -71,11 +71,11 @@
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) — Performant financial charts built with HTML5 canvas
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) — A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs) — The docs of MoonBit programming language
-- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) — A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) — A new bootable USB solution.
 <!-- STARS:END -->
 
 ## 📬 Contact
