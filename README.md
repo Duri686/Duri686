@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) — Generative UI SDK for React
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) — 🐻 Bear necessities for state management in React
 - [JiXiangKing80/windsurf-auto-mcp](https://github.com/JiXiangKing80/windsurf-auto-mcp) — Windsurf MCP 积分膨胀自动化工具
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) — Performant financial charts built with HTML5 canvas
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 <!-- STARS:END -->
 
 ## 📬 Contact
