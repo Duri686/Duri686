@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) — A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) — Get 10X more out of Claude Code, Codex or any coding agent
 - [anthropics/skills](https://github.com/anthropics/skills) — Public repository for Agent Skills
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) — Generative UI SDK for React
-- [pmndrs/zustand](https://github.com/pmndrs/zustand) — 🐻 Bear necessities for state management in React
 <!-- STARS:END -->
 
 ## 📬 Contact
