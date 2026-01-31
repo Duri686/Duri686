@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) — A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
 - [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) — Automaticly generate your styled QR code in your web app.
 - [gcoro/react-qrcode-logo](https://github.com/gcoro/react-qrcode-logo) — React + Typescript component to generate a QR Code with custom colors and logo
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) — The open source coding agent.
 <!-- STARS:END -->
 
 ## 📬 Contact
