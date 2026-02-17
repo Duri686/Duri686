@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) — Official Documentation for the Binance Spot APIs and Streams 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) — A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
-- [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling) — Automaticly generate your styled QR code in your web app.
 <!-- STARS:END -->
 
 ## 📬 Contact
