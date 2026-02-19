@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [vnpy/vnpy](https://github.com/vnpy/vnpy) — 基于Python的开源量化交易平台开发框架
+- [wshobson/agents](https://github.com/wshobson/agents) — Intelligent automation and multi-agent orchestration for Claude Code
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) — Official Documentation for the Binance Spot APIs and Streams 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) — A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [obra/superpowers](https://github.com/obra/superpowers) — An agentic skills framework & software development methodology that works.
 <!-- STARS:END -->
 
 ## 📬 Contact
