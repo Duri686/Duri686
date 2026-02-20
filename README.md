@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) — No description
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) — 基于Python的开源量化交易平台开发框架
 - [wshobson/agents](https://github.com/wshobson/agents) — Intelligent automation and multi-agent orchestration for Claude Code
 - [binance/binance-spot-api-docs](https://github.com/binance/binance-spot-api-docs) — Official Documentation for the Binance Spot APIs and Streams 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [dhruvmisra/Pathfinding-Visualizer-ThreeJS](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS) — A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
 <!-- STARS:END -->
 
 ## 📬 Contact
