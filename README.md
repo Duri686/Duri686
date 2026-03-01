@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — AGENTS.md — a simple, open format for guiding coding agents
 - [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) — No description
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) — the best agent harness
 - [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) — No description
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) — 基于Python的开源量化交易平台开发框架
-- [wshobson/agents](https://github.com/wshobson/agents) — Intelligent automation and multi-agent orchestration for Claude Code
 <!-- STARS:END -->
 
 ## 📬 Contact
