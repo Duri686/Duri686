@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) — A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — AGENTS.md — a simple, open format for guiding coding agents
 - [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) — No description
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) — the best agent harness
-- [vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit) — No description
 <!-- STARS:END -->
 
 ## 📬 Contact
