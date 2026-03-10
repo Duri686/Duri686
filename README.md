@@ -79,11 +79,11 @@ Repo · https://github.com/Duri686/RoadNetVisualizer
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) — A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [exelban/stats](https://github.com/exelban/stats) — macOS system monitor in your menu bar
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) — AGENTS.md — a simple, open format for guiding coding agents
-- [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) — No description
 <!-- STARS:END -->
 
 ## 📬 Contact
