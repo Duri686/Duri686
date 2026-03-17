@@ -29,50 +29,17 @@ const DURI: Developer = Developer {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Tech Stack
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Daily Drivers**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,tailwind,vite&perline=6" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,tailwind,vite,nodejs,docker,nginx,githubactions,workers,rust,wasm,threejs&perline=7" />
 </p>
 
-</td>
-<td align="center" width="50%">
-
-**Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,githubactions,workers,linux&perline=6" />
+<p align="center">
+  <img src="https://img.shields.io/badge/OXC-5C2D91?style=for-the-badge&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/i18n-2496ED?style=for-the-badge&logo=googletranslate&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="28" />
 </p>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**DX & Quality**
-
-<p>
-  <img src="https://img.shields.io/badge/OXC-5C2D91?style=for-the-badge&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/i18n-2496ED?style=for-the-badge&logo=googletranslate&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="30" />
-</p>
-
-</td>
-<td align="center" width="50%">
-
-**Exploring**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,wasm,threejs&perline=6" />
-</p>
-
-</td>
-</tr>
-</table>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> Featured Projects
 
