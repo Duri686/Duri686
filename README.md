@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Duri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20·%20Web%20Engineering%20·%20Rust%20/%20Wasm%20Explorer&descSize=16&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Duri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20·%20Fintech%20·%20DX%20Tooling%20·%20Rust%20/%20Wasm&descSize=16&descAlignY=55&descAlign=50" />
 
 <p align="center">
   <a href="https://github.com/Duri686"><img src="https://komarev.com/ghpvc/?username=Duri686&color=0ea5e9&style=flat-square" alt="views" /></a>
@@ -12,15 +12,19 @@
 
 ```rust
 const DURI: Developer = Developer {
-    name: "Duri",
-    role: "Frontend Engineer",
-    focus: vec![
-        "Vue 3 / Nuxt 3 Production Apps",
-        "Client-side Performance Optimization",
-        "Rust / WebAssembly in Frontend",
-        "3D Visualization & GIS",
+    role: "Frontend Engineer @ Fintech",
+    daily: vec![
+        "Large-scale monorepo architecture (30+ apps, 20+ shared packages)",
+        "Performance-critical financial UIs",
+        "Design system & component library maintenance",
+        "DX tooling — making teams ship faster",
     ],
-    fun_fact: "I move computation off the main thread for fun 🦀",
+    after_hours: vec![
+        "Rust / WebAssembly in the browser",
+        "3D visualization & GIS",
+        "AI-powered dev workflow automation",
+    ],
+    philosophy: "Move computation off the main thread. Automate everything else.",
 };
 ```
 
@@ -30,34 +34,41 @@ const DURI: Developer = Developer {
 <tr>
 <td align="center" width="50%">
 
-**Frontend**
+**Daily Drivers**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,react,tailwind,vite&perline=6" />
 </p>
 
 </td>
 <td align="center" width="50%">
 
-**Platform & Tooling**
+**Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,vite,nginx,githubactions,workers,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,nginx,githubactions,workers,linux&perline=6" />
 </p>
 
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 
-**Exploring & Building With**
+**DX & Quality**
+
+<p>
+  <img src="https://img.shields.io/badge/OXC-5C2D91?style=for-the-badge&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Monorepo-2496ED?style=for-the-badge&logo=yarn&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="30" />
+</p>
+
+</td>
+<td align="center" width="50%">
+
+**Exploring**
 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,wasm,threejs&perline=6" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PixiJS-e72264?style=for-the-badge&logo=pixiv&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="30" />
 </p>
 
 </td>
@@ -76,7 +87,7 @@ const DURI: Developer = Developer {
   <a href="https://github.com/Duri686/RustQuantLab"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
 </p>
 
-High-performance web trading simulator built with **Rust/WebAssembly** and React. Core computation runs off the main thread for stable rendering under high-frequency data updates.
+High-performance web trading simulator — **Rust/Wasm** handles computation off the main thread, React renders at 60fps under high-frequency data streams.
 
 <img src="https://raw.githubusercontent.com/Duri686/RustQuantLab/refs/heads/main/docs/preview.png" width="100%" />
 
@@ -89,13 +100,22 @@ High-performance web trading simulator built with **Rust/WebAssembly** and React
   <a href="https://github.com/Duri686/RoadNetVisualizer"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" height="25" /></a>
 </p>
 
-Pure client-side **3D indoor navigation** demo with A* pathfinding. Multi-floor routing and interactive visualization without any backend dependency.
+Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routing, zero backend dependency.
 
 <img src="https://raw.githubusercontent.com/Duri686/RoadNetVisualizer/refs/heads/main/docs/images/overview.png" width="100%" />
 
 </td>
 </tr>
 </table>
+
+## 🧰 What I Build Beyond Code
+
+> I believe the best code is the code your team never has to think about.
+
+- **Monorepo orchestration** — 30+ apps sharing 20+ packages, scoped builds/tests/deploys
+- **Developer tooling** — custom CLIs, linting pipelines, and AI-assisted code workflows
+- **Design systems** — cross-tenant component libraries with theme architecture
+- **Automation** — from commit conventions to CI/CD, if it's repeatable it should be automated
 
 ## 📊 GitHub Stats
 
