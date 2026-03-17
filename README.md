@@ -1,31 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Duri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20·%20Web%20Engineering%20·%20Rust%20/%20Wasm%20Explorer&descSize=16&descAlignY=55&descAlign=50" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=460&lines=Rust+%2B+Wasm+%E2%9A%A1+High-Perf+Web+Apps;Off+the+Main+Thread+%F0%9F%A6%80;Vue+%7C+React+%7C+TypeScript;Always+Exploring+Something+New" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Duri686"><img src="https://komarev.com/ghpvc/?username=Duri686&color=0ea5e9&style=flat-square" alt="views" /></a>
-  <a href="https://github.com/Duri686?tab=followers"><img src="https://img.shields.io/github/followers/Duri686?style=flat-square&color=6366f1" alt="followers" /></a>
-  <a href="https://github.com/Duri686?tab=repositories"><img src="https://img.shields.io/github/stars/Duri686?style=flat-square&color=f59e0b" alt="stars" /></a>
-</p>
-
-<p align="center">
-  <a href="https://geo4ai.com"><img src="https://img.shields.io/badge/Website-geo4ai.com-0ea5e9?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://img.geo4ai.com"><img src="https://img.shields.io/badge/Image_Tools-img.geo4ai.com-6366f1?style=flat-square&logo=image&logoColor=white" /></a>
-  <a href="mailto:duri@duck.com"><img src="https://img.shields.io/badge/Email-duri@duck.com-f59e0b?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://geo4ai.com"><img src="https://img.shields.io/badge/geo4ai.com-0ea5e9?style=flat-square&logo=safari&logoColor=white" /></a>
+  <a href="https://img.geo4ai.com"><img src="https://img.shields.io/badge/img.geo4ai.com-6366f1?style=flat-square&logo=googleimages&logoColor=white" /></a>
+  <a href="mailto:duri@duck.com"><img src="https://img.shields.io/badge/duri@duck.com-f59e0b?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> About Me
 
 ```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    focus: Vec<&'static str>,
-    fun_fact: &'static str,
-}
-
 const DURI: Developer = Developer {
     name: "Duri",
     role: "Frontend Engineer",
@@ -71,7 +56,7 @@ const DURI: Developer = Developer {
   <img src="https://skillicons.dev/icons?i=rust,wasm,threejs&perline=6" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/PixiJS-e72264?style=for-the-badge&logo=pixi.js&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/PixiJS-e72264?style=for-the-badge&logo=pixiv&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="30" />
 </p>
 
@@ -119,8 +104,12 @@ Pure client-side **3D indoor navigation** demo with A* pathfinding. Multi-floor 
   <img src="https://github-readme-stats.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&hide_border=true&icon_color=0ea5e9&title_color=6366f1&text_color=888888&ring_color=0ea5e9&show=reviews,prs_merged&rank_icon=github" width="49%" />
 </p>
 
+## 📈 Activity
+
+[![Duri's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duri686&bg_color=00000000&color=888888&line=0ea5e9&point=6366f1&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <details>
-<summary><b>🔍 More Activity Insights</b> (click to expand)</summary>
+<summary><b>🔍 More Insights</b></summary>
 <br/>
 
 <p align="center">
@@ -134,16 +123,6 @@ Pure client-side **3D indoor navigation** demo with A* pathfinding. Multi-floor 
 </p>
 
 </details>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Duri686&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
-
-## 📈 Activity Graph
-
-[![Duri's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Duri686&bg_color=00000000&color=888888&line=0ea5e9&point=6366f1&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🐍 Contribution Snake
 
