@@ -115,17 +115,25 @@ Pure client-side **3D indoor navigation** demo with A* pathfinding. Multi-floor 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Duri686&theme=transparent&hide_border=true&ring=0ea5e9&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=888888" width="49%" />
-  </picture>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&hide_border=true&icon_color=0ea5e9&title_color=6366f1&text_color=888888&ring_color=0ea5e9" width="49%" />
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duri686&theme=transparent&hide_border=true&ring=0ea5e9&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1&dates=888888" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Duri686&show_icons=true&theme=transparent&hide_border=true&icon_color=0ea5e9&title_color=6366f1&text_color=888888&ring_color=0ea5e9&show=reviews,prs_merged&rank_icon=github" width="49%" />
+</p>
+
+<details>
+<summary><b>🔍 More Activity Insights</b> (click to expand)</summary>
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Duri686/Duri686/main/metrics-isocalendar.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/Duri686/Duri686/main/metrics-habits.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duri686&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=888888&langs_count=8" width="40%" />
+  <img src="https://raw.githubusercontent.com/Duri686/Duri686/main/metrics-languages.svg" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duri686&theme=transparent&utcOffset=8" width="49%" />
 </p>
+
+</details>
 
 ## 🏆 Trophies
 
