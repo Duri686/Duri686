@@ -14,7 +14,6 @@
 const DURI: Developer = Developer {
     role: "Frontend Engineer @ Fintech",
     daily: vec![
-        "Large-scale monorepo architecture (30+ apps, 20+ shared packages)",
         "Performance-critical financial UIs",
         "Design system & component library maintenance",
         "DX tooling — making teams ship faster",
@@ -58,7 +57,7 @@ const DURI: Developer = Developer {
 
 <p>
   <img src="https://img.shields.io/badge/OXC-5C2D91?style=for-the-badge&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Monorepo-2496ED?style=for-the-badge&logo=yarn&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/i18n-2496ED?style=for-the-badge&logo=googletranslate&logoColor=white" height="30" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="30" />
 </p>
 
@@ -112,9 +111,8 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 
 > I believe the best code is the code your team never has to think about.
 
-- **Monorepo orchestration** — 30+ apps sharing 20+ packages, scoped builds/tests/deploys
 - **Developer tooling** — custom CLIs, linting pipelines, and AI-assisted code workflows
-- **Design systems** — cross-tenant component libraries with theme architecture
+- **Design systems** — scalable component libraries with theme architecture
 - **Automation** — from commit conventions to CI/CD, if it's repeatable it should be automated
 
 ## 📊 GitHub Stats
