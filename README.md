@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Hey,%20I'm%20Duri%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20·%20Web%20Engineering%20·%20Rust%20/%20Wasm%20Explorer&descSize=16&descAlignY=55&descAlign=50" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=520&lines=Building+high-perf+web+apps+with+Rust+%2B+Wasm+%F0%9F%A6%80;Moving+computation+off+the+main+thread+%E2%9A%A1;Vue+3+%7C+React+%7C+TypeScript+%7C+WebAssembly;Always+exploring+something+new+%F0%9F%94%AD" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=460&lines=Rust+%2B+Wasm+%E2%9A%A1+High-Perf+Web+Apps;Off+the+Main+Thread+%F0%9F%A6%80;Vue+%7C+React+%7C+TypeScript;Always+Exploring+Something+New" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
