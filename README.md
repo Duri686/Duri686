@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) — The Generative UI framework
+- [google/A2UI](https://github.com/google/A2UI) — No description
 - [zed-industries/zed](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) — CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) — 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) — A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
