@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [Schniz/fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) — AI agents running research on single-GPU nanochat training automatically
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) — simple terminal UI for git commands
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) — 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
