@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [inokawa/virtua](https://github.com/inokawa/virtua) — A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte.
+- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) — The most powerful virtual list component for React
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) — Your agent writes bad React. This catches it
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-- [garrytan/gstack](https://github.com/garrytan/gstack) — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-- [acostanzo/quickstop](https://github.com/acostanzo/quickstop) — A Claude Code plugin marketplace
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
