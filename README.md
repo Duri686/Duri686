@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [morethanwords/tweb](https://github.com/morethanwords/tweb) — Telegram Web K, GPL v3
 - [physics-dimension/PriceAI](https://github.com/physics-dimension/PriceAI) — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .claude directory.
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) — Turso is an in-process SQL database, compatible with SQLite.
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
