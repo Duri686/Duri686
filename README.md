@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) — External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [morethanwords/tweb](https://github.com/morethanwords/tweb) — Telegram Web K, GPL v3
 - [sw33tLie/macshot](https://github.com/sw33tLie/macshot) — Feature-packed native macOS screenshot & recording tool: annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Skills for Real Engineers. Straight from my .agents directory.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) — A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
