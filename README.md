@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) — Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 - [usestrix/strix](https://github.com/usestrix/strix) — Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) — Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. 
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) — Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) — External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
