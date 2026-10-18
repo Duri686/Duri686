@@ -122,7 +122,7 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) — Orchestrate multiple coding agents from desktop and mobile
 - [MattDevy/pi-extensions](https://github.com/MattDevy/pi-extensions) — A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience
-- [stablyai/orca](https://github.com/stablyai/orca) — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 - [vercel-labs/vgpu](https://github.com/vercel-labs/vgpu) — Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz
 <!-- STARS:END -->
