@@ -120,11 +120,11 @@ Pure client-side **3D indoor navigation** with A* pathfinding. Multi-floor routi
 ## ⭐ Latest Stars
 <!-- STARS:START -->
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) — The best way to control Claude Code, Codex and more from any computer or phone
+- [Tencent/LoopForge](https://github.com/Tencent/LoopForge) — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) — the runtime your coding agents live on
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) — Orchestrate multiple coding agents from desktop and mobile
 - [MattDevy/pi-extensions](https://github.com/MattDevy/pi-extensions) — A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience
-- [stablyai/orca](https://github.com/stablyai/orca) — Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) — Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 <!-- STARS:END -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=footer" />
